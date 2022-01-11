@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Emanuel</h1>
-<h3 align="center">A Back-end developer from Brazil
+<h3 align="center">A Back-end developer from Brazil</h3> 
   
   ``` 
-  async user.index({ 🐜 name: 'Emanuel Melo', ✔️ age: Date.now() - '14/02/1991', 🌴 city: 'Mogi das Cruzes, SP', 👩 stack: ['Html5','CSS3','Javascript','Svelte','Ruby on Rails', 'Elixir'], 📷 hobby: ['games','series', 'leitura'] }); return response.status(201).send();</h3> 
+async user.index({ 🐜 name: 'Emanuel Melo',
+✔️ age: Date.now() - '14/02/1991', 
+🌴 city: 'Mogi das Cruzes, SP',
+👩 stack: ['Html5','CSS3','Javascript','Svelte','Ruby on Rails', 'Elixir'],
+📷 hobby: ['games','series', 'leitura'] });
+ return response.status(201).send();
   
   ```
 
