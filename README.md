@@ -6,8 +6,8 @@ async user.index({
     🐜 name: 'Emanuel Melo',
     ✔️ age: Date.now() - '14/02/1991', 
     🌴 city: 'Mogi das Cruzes, SP',
-    👩 stack: ['Html5','CSS3','Javascript','Svelte','Ruby on Rails', 'Elixir'],
-    📷 hobby: ['games','series', 'leitura'] 
+    👩 stack: ['Html5','CSS3','Svelte','Elixir'],
+    📷 hobby: ['Yu-Gi-Oh!','Nihongo', 'Leitura'] 
 });
 return response.status(201).send();
   
