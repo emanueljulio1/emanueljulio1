@@ -4,8 +4,7 @@
   ``` 
 async user.index({ 
     🐜 name: 'Emanuel Melo',
-    ✔️ age: Date.now() - '14/02/1991', 
-    🌴 city: 'Mogi das Cruzes, SP',
+    🌴 city: 'Suzuka, Prefeitura de Mie, Japão',
     👩 stack: ['Html5','CSS3','Svelte','Elixir'],
     📷 hobby: ['Yu-Gi-Oh!','Nihongo', 'Leitura'] 
 });
