@@ -5,7 +5,7 @@
 async user.index({ 
     🐜 name: 'Emanuel Melo',
     🌴 city: 'Suzuka, Prefeitura de Mie, Japão',
-    👩 stack: ['Html5','CSS3','Svelte','Elixir'],
+    👩 stack: %Petal{Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView}
     📷 hobby: ['Yu-Gi-Oh!','Nihongo', 'Leitura'] 
 });
 return response.status(201).send();
