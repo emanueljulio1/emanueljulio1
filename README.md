@@ -3,7 +3,7 @@
   
   ``` 
 async user.index({ 
-    🐜 name: 'Emanuel Melo',
+    🐜 name: 'Emanuel Kidoguchi',
     🌴 city: 'Suzuka, Prefeitura de Mie, Japão',
     👩 stack: %Petal{Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView}
     📷 hobby: ['Yu-Gi-Oh!','Nihongo', 'Leitura'] 
