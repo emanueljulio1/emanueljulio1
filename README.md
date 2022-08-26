@@ -4,7 +4,7 @@
   ``` 
 async user.index({ 
     🐜 name: 'Emanuel Kidoguchi',
-    🌴 city: 'Suzuka, Prefeitura de Mie, Japão',
+    🌴 city: 'Mogi das Cruzes, São Paulo, Brasil',
     👩 stack: %Petal{Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView}
     📷 hobby: ['Yu-Gi-Oh!','Nihongo', 'Leitura'] 
 });
