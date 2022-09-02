@@ -2,13 +2,16 @@
 <h3 align="center">A Back-end developer from Brazil</h3> 
   
   ``` 
-async user.index({ 
-    name: 'Emanuel Kidoguchi',
-    city: 'Mogi das Cruzes, São Paulo, Brasil',
-    stack: %Petal{Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView}
-    hobby: ['Yu-Gi-Oh!','Nihongo', 'Leitura'] 
-});
-return response.status(201).send();
+MessagePublisher new publish
+
+publish
+    
+    Transcript show: 'Hello, world!'.
+    Transcript show: 'name: Emanuel Kidoguchi'.
+    Transcript show: 'city: Mogi das Cruzes, São Paulo, Brasil'.
+    Transcript show: 'stack: %Petal{Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView}'.
+    Transcript show: 'hobby: ['Yu-Gi-Oh!','Nihongo', 'Leitura']'. 
+
   
   ```
 
