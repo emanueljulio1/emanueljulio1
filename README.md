@@ -4,7 +4,7 @@
   ``` 
 MessagePublisher new publish
 
-  publish
+    publish
     
       Transcript show: 
                        'Hello, world!'.
