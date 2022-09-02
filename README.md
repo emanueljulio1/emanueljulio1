@@ -4,13 +4,14 @@
   ``` 
 MessagePublisher new publish
 
-publish
+  publish
     
-    Transcript show: 'Hello, world!'.
-    Transcript show: 'name: Emanuel Kidoguchi'.
-    Transcript show: 'city: Mogi das Cruzes, São Paulo, Brasil'.
-    Transcript show: 'stack: %Petal{Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView}'.
-    Transcript show: 'hobby: ['Yu-Gi-Oh!','Nihongo', 'Leitura']'. 
+      Transcript show: 
+                       'Hello, world!'.
+                       'name: Emanuel Kidoguchi'.
+                       'city: Mogi das Cruzes, São Paulo, Brasil'.
+                       'stack: %Petal{Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView}'.
+                       'hobby: ['Yu-Gi-Oh!','Nihongo', 'Leitura']'. 
 
   
   ```
