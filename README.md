@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emanuel</h1>
 <h3 align="center">A Back-end developer from Brazil</h3>
-<h4 align="center">Let's just start with some small talk, okay?</h4>
+<h4 align="center">Let's just start with some <b><em>Smalltalk</em></b>, okay?</h4>
  
   
   ``` 
