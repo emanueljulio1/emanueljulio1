@@ -12,7 +12,7 @@ MessagePublisher new publish
                        'Hello, world!'.
                        'name: Emanuel Kidoguchi'.
                        'city: Mogi das Cruzes, São Paulo, Brasil'.
-                       'stack: %Petal{Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView}'.
+                       'stack: Phoenix, Elixir, TailwindCSS, LiveView'.
                        'hobby: ['Yu-Gi-Oh!','Nihongo', 'Leitura']'. 
 
   
