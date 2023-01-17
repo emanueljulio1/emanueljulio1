@@ -17,7 +17,7 @@ MessagePublisher new publish
   
   ```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanueljulio1" alt="emanueljulio1" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanueljulio1" alt="emanueljulio1" /></a> </p> -->
 
 - 🌱 I’m currently learning **COBOL, z/OS, JCL, DB2**
 
