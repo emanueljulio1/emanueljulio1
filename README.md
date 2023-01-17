@@ -12,7 +12,6 @@ MessagePublisher new publish
                        'Hello, world!'.
                        'name: Emanuel Kidoguchi'.
                        'city: Mogi das Cruzes, São Paulo, Brasil'.
-                       'stack: Phoenix, Elixir, TailwindCSS, LiveView'.
                        'hobby: ['Yu-Gi-Oh!','Nihongo', 'Leitura']'. 
 
   
@@ -20,7 +19,7 @@ MessagePublisher new publish
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanueljulio1" alt="emanueljulio1" /></a> </p>
 
-- 🌱 I’m currently learning **Elixir, Phoenix Live-View**
+- 🌱 I’m currently learning **COBOL, z/OS, JCL, DB2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
