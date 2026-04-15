@@ -1,30 +1,84 @@
-<h1 align="center">Hi 👋, I'm Emanuel</h1>
-<h3 align="center">A Back-end developer from Brazil</h3>
-<h4 align="center">Let's just start with some <b><em>Smalltalk</em></b>, okay?</h4>
- 
-  
-  ``` 
-MessagePublisher new publish
 
-    publish
-    
-      Transcript show: 
-                       'Hello, world!'.
-                       'name: Emanuel Kidoguchi'.
-                       'city: Mogi das Cruzes, São Paulo, Brasil'.
-                       'hobby: ['Yu-Gi-Oh!','Nihongo', 'Leitura']'. 
+````markdown
+> **📍 Currently based in Japan (9 months) | 💼 Looking for IT Opportunities**
 
-  
-  ```
+<div align="center">
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanueljulio1" alt="emanueljulio1" /></a> </p> -->
+# Emanuel Kidoguchi 
+**Hybrid Back-end Engineer** — **Fintech** & enterprise-ready 
+Legacy-critical (**COBOL/Mainframe**) + Modern delivery (**Elixir/Phoenix**, **Ruby on Rails**)
 
-- 🌱 I’m currently learning **COBOL, z/OS, JCL, DB2**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/emanuel-kidoguchi-back-end-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emanuel-kidoguchi-back-end-dev/" height="30" width="40" /></a>
-</p>
+```smalltalk
+"Smalltalk: clear messages, reliable systems."
+Developer new
+  name: 'Emanuel Kidoguchi';
+  focus: 'Scalability, stability, and Mainframe Modernization';
+  yourself.
+````
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+-----
+
+## Core Stack
+
+### Modern Backend
+
+### Legacy / Mainframe
+
+### Database
+
+-----
+
+## Japan Factor
+
+| | |
+|---|---|
+| **Location** | **Japan (9 months)** — settled locally and ready to onboard |
+| **Target** | Roles in **Fintech**, enterprise platforms, and **Mainframe Modernization** |
+| **Value** | Bridging “change safety” from legacy with modern engineering speed |
+
+-----
+
+## Professional Experience (Impact-Oriented)
+
+| | |
+|---|---|
+| \<img src="https://www.ibm.com/brand/experience-guides/developer/8f4e3cc2b5d52354a6d43c8edba1e3c9/02\_8-bar-reverse.svg" width="60" alt="IBM" /\> | **IBM — Consultant (Banco do Brasil)** <br>- Operated in enterprise financial context where stability and correctness are non-negotiable <br>- Worked with **COBOL** and **DB2** under strict change control, improving delivery safety and reliability <br>- Contributed to modernization thinking by translating legacy constraints into practical implementation approaches |
+| \<img src="https://media.licdn.com/dms/image/D4D0BAQHGfV9P1ynKUw/company-logo\_200\_200/0/1689963699337/seja\_gen\_logo?e=1708560000\&v=beta\&t=9Q--Yh50vgOleRSwjFvIcfXVOC-dQvt824bDQZGSsxA" width="60" alt="GEN" /\> | **GEN — Back-end Engineer (Elixir)** <br>- Shipped and maintained back-end services in **Elixir**, focused on maintainability and operational stability <br>- Improved delivery quality through refactoring, clearer boundaries, and production debugging <br>- Partnered with stakeholders to deliver features with measurable product impact |
+
+-----
+
+## Language Proficiency
+
+| Language | Level | Progress |
+|---|---:|---|
+| **Japanese** | **Basic / Learning (Nihongo)** | `████░░░░░░` |
+| **English** | **Professional working** | `█████████░` |
+| **Portuguese** | **Native** | `██████████` |
+
+-----
+
+## GitHub Stats
+
+\<div align="center"\>
+\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Demanueljulio1%26show\_icons%3Dtrue%26include\_all\_commits%3Dtrue%26count\_private%3Dtrue%26hide\_title%3Dtrue%26theme%3Dradical" alt="Contributions" /\>
+\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Demanueljulio1%26layout%3Dcompact%26theme%3Dradical" alt="Most used languages" /\>
+\</div\>
+
+-----
+
+## Interests
+
+  * **Yu-Gi-Oh\!** (Competitive/Strategy)
+  * **Reading** (Tech & Literature)
+  * **Nihongo Studies** (Daily immersion)
+
+-----
+
+## Let’s Connect
+
+[](https://www.linkedin.com/in/emanuel-kidoguchi-back-end-dev/)
+
+```
+```
