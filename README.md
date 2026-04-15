@@ -1,5 +1,4 @@
 
-````markdown
 > **📍 Currently based in Japan (9 months) | 💼 Looking for IT Opportunities**
 
 <div align="center">
@@ -16,7 +15,6 @@ Developer new
   name: 'Emanuel Kidoguchi';
   focus: 'Scalability, stability, and Mainframe Modernization';
   yourself.
-````
 
 -----
 
