@@ -34,4 +34,4 @@ Languages & Tecnologies: `Elixir`, `Phoenix`, `PostgreSQL`, `GraphQL`\
 Project: [Gen app](https://seja.gen.com.br/app)
 <br/>
 
-Contact through [LinkedIn](https://www.linkedin.com/in/ekido/) for a more detailed description of my work experience, education and certification.
+Contact through [LinkedIn](https://www.linkedin.com/in/ekidoguchi/) for a more detailed description of my work experience, education and certification.
