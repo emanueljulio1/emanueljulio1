@@ -26,13 +26,10 @@
 <hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
 
 
-
 ### Stack, language & JLPT
 
 - 🌱 **Learning:** **PHP** & **jQuery** — web layer alongside legacy and modern stacks.
 - 🇯🇵 **Japan fit:** long-term language and cultural context for the local market.
-- 📚 **JLPT N3:** studying toward the exam — progress badges:
-
 
 <hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
 
