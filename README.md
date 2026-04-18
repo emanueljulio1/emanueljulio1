@@ -33,11 +33,6 @@
 - 🇯🇵 **Japan fit:** long-term language and cultural context for the local market.
 - 📚 **JLPT N3:** studying toward the exam — progress badges:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Japanese-continuous%20study-9ece6a?style=for-the-badge&labelColor=1a1b26" alt="Japanese language study"/>
-  <img src="https://img.shields.io/badge/JLPT%20N3-in%20progress-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="JLPT N3 in progress"/>
-  <img src="https://img.shields.io/badge/JLPT%20N3%20readiness-~25%25-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="JLPT N3 readiness percent"/>
-</p>
 
 <hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
 
