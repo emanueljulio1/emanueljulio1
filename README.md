@@ -48,7 +48,7 @@ MessagePublisher new publish
 
 ### 📚 Learning journey · JLPT roadmap
 
-Commitment to **Japanese language proficiency** supports clearer collaboration and a stronger presence in the **Japanese workplace and culture**. Target: **JLPT N3**.
+Commitment to **Japanese language proficiency** supports clearer collaboration and a stronger presence in the **Japanese workplace and culture**. Target: **JLPT N3：現在、日本語能力試験N3合格を目指して勉強中です！**.
 
   </td>
   </tr>
