@@ -23,7 +23,7 @@
   <br/>
   <img src="./assets/greeting-frame-bottom.svg" width="880" height="36" alt="" role="presentation"/>
 </h1>
-<p align="center"><strong>English:</strong> Hi, I’m <strong>Emanuel Kidoguchi</strong>, a back-end developer (Brazil → Japan, Suzuka, Mie).</p>
+<p align="center"><strong></strong> Hi, I’m <strong>Emanuel Kidoguchi</strong>, a back-end developer (Brazil → Japan, Suzuka, Mie).</p>
 
 <hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
 
