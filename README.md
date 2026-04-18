@@ -18,16 +18,6 @@
 <h1 align="center">初めまして！👋 キドグチエマニュエウと申します。</h1>
 <p align="center"><strong>English:</strong> Hi — I’m <strong>Emanuel Kidoguchi</strong>, a back-end developer (Brazil → Japan, Suzuka, Mie).</p>
 
-<h2 align="center">Let’s start with a little <em>Smalltalk</em></h2>
-
-```smalltalk
-MessagePublisher new publish
-  publish
-    Transcript show:
-      'Hello, Japan.'.
-      'name: Emanuel Kidoguchi'.
-      'city: Suzuka, Mie, Japan'.
-```
 
 > レガシーシステムとモダンなシステム、両方の開発経験を持つシステムプログラマーです。信頼性とモダンなバックエンド技術を組み合わせ、安定したプロダクトを作ることを目標としています。
 >
@@ -36,10 +26,6 @@ MessagePublisher new publish
 <hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
 
 
-
-## Current focus & learning journey
-
-<p align="center"><sub><strong>Focus</strong> · JLPT · complementary web stack</sub></p>
 
 ### Stack, language & JLPT
 
