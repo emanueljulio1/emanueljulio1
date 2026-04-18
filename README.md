@@ -16,7 +16,7 @@
 </div>
 
 <h1 align="center">初めまして！👋 キドグチエマニュエウと申します。</h1>
-<p align="center"><strong>English:</strong> Hi — I’m <strong>Emanuel Kidoguchi</strong>, a back-end engineer (Brazil → Japan, Suzuka, Mie).</p>
+<p align="center"><strong>English:</strong> Hi — I’m <strong>Emanuel Kidoguchi</strong>, a back-end developer (Brazil → Japan, Suzuka, Mie).</p>
 
 <h2 align="center">Let’s start with a little <em>Smalltalk</em></h2>
 
