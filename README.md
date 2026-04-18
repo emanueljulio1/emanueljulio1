@@ -83,19 +83,6 @@ MessagePublisher new publish
 
 <hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
 
-## Tech stack · at a glance
-
-<details>
-<summary><strong>Deep tech stack</strong> (expand)</summary>
-
-| Layer | Items |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript, jQuery |
-| **Backend** | Elixir, Phoenix, PHP, GraphQL |
-| **Data** | PostgreSQL, DB2 |
-| **Legacy / MF** | COBOL, JCL, TSO, ROSCOE, NATURAL, ADABAS |
-| **Tooling** | Git, GitHub, VS Code, Linux |
-
 
 ## Let’s connect
 
