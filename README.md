@@ -3,11 +3,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=900&lines=Emanuel+Kidoguchi;Back-end+%7C+Mainframe+%E2%86%92+Modern+Stack;Fintech+%E2%80%A2+E%E2%80%91commerce+%E2%80%A2+Sistemas+Legados)
 
 [![Location](https://img.shields.io/badge/Suzuka%2C%20Mie-Japan-24283b?style=for-the-badge&logo=googlemaps&logoColor=7aa2f7)](https://www.google.com/maps/place/Suzuka,+Mie/)
-[![Focus](https://img.shields.io/badge/Focus-Back--end%20%26%20Legacy%20Modernization-24283b?style=for-the-badge&logo=target&logoColor=bb9af7)](https://github.com/SEU_USUARIO_GITHUB)
-[![Open to](https://img.shields.io/badge/Open%20to-Oportunidades%20no%20Jap%C3%A3o%20%2F%20Remoto-24283b?style=for-the-badge&logo=Handshake&logoColor=c0caf5)](mailto:SEU_EMAIL@dominio.com)
+[![Focus](https://img.shields.io/badge/Focus-Back--end%20%26%20Legacy%20Modernization-24283b?style=for-the-badge&logo=target&logoColor=bb9af7)](https://github.com/emanueljulio1)
+[![Open to](https://img.shields.io/badge/Open%20to-Oportunidades%20no%20Jap%C3%A3o%20%2F%20Remoto-24283b?style=for-the-badge&logo=Handshake&logoColor=c0caf5)](mailto:emanueljulio1@gmail.com)
 
-<!-- BANNER (opcional, recomendado): descomente e aponte para o arquivo no repo do perfil -->
-<!-- ![Banner](https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/main/assets/banner.png) -->
+
 
 </div>
 
