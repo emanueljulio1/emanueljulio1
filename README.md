@@ -35,45 +35,7 @@ MessagePublisher new publish
 
 <hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
 
-## The Bridge · legacy → modern
 
-<!-- Table keeps badge + icons on one row (GitHub often stacks <img> inside <p> vertically). -->
-<table>
-  <tr>
-  <td align="center" valign="middle">
-  <img src="https://img.shields.io/badge/COBOL-z%2FOS+%26+batch-005571?style=for-the-badge&logo=circleci&logoColor=white" alt="COBOL mainframe stack"/>
-  </td>
-  <td align="center" valign="middle"><strong>→</strong></td>
-  <td align="center" valign="middle">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="40" height="40" alt="Elixir"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  </td>
-  </tr>
-</table>
-
-<p align="center"><strong>z/OS · COBOL / JCL / DB2</strong> → <strong>APIs · Elixir · Phoenix · PHP</strong><br/>
-<sub>reliability &amp; rules ················→················ product velocity &amp; integration</sub></p>
-
-<hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
-
-## Operating systems & ecosystems
-
-<table>
-  <tr>
-  <td align="center">
-  <img src="https://img.shields.io/badge/Windows-Dev+workstation-1a1b26?style=for-the-badge&logo=windows&logoColor=7aa2f7" alt="Windows development workstation"/>
-  </td>
-  <td align="center">
-  <img src="https://img.shields.io/badge/Linux-Servers+%26+automation-1a1b26?style=for-the-badge&logo=linux&logoColor=bb9af7" alt="Linux servers and automation"/>
-  </td>
-  <td align="center">
-  <img src="https://img.shields.io/badge/z%2FOS-Mainframe+%26+batch-003545?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM z/OS mainframe"/>
-  </td>
-  </tr>
-</table>
-
-<hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
 
 ## Current focus & learning journey
 
@@ -93,14 +55,6 @@ MessagePublisher new publish
 
 <hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
 
-## Hybrid edge · where I shine
-
-- **Fintech / banking-grade:** regulation, stability, change governance, disciplined ops.
-- **E-commerce / digital product:** shipping speed, integrations, conversion-aware flows.
-- **Legacy & mainframe:** rules close to the metal — **COBOL / JCL / DB2**, **TSO / ROSCOE**, **NATURAL / ADABAS** — **modernization**, not only maintenance.
-- **Transition:** same engineering discipline applied to APIs, data modeling, tests, and delivery; **PHP & jQuery** as a deliberate complement to legacy and modern surfaces.
-
-<hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
 
 ## Experience · timeline
 
@@ -184,27 +138,6 @@ MessagePublisher new publish
 </details>
 
 <hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
-
-## Activity & coding analytics
-
-### Contribution activity graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emanueljulio1&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=7aa2f7&hide_border=true&custom_title=Contribution%20activity%20timeline" alt="GitHub contribution activity line graph"/>
-</p>
-
-### GitHub stats · streak · languages
-
-<table>
-  <tr>
-  <td align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=emanueljulio1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics"/></td>
-  <td align="center"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueljulio1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/></td>
-  </tr>
-  <tr>
-  <td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=emanueljulio1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/></td>
-  </tr>
-</table>
-
 
 ## Let’s connect
 
