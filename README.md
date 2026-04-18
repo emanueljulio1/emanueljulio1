@@ -16,12 +16,11 @@
 </div>
 
 <h1 align="center">初めまして！👋 キドグチエマニュエウと申します。</h1>
-<p align="center"><strong>English:</strong> Hi — I’m <strong>Emanuel Kidoguchi</strong>, a back-end developer (Brazil → Japan, Suzuka, Mie).</p>
+<p align="center"><strong>English:</strong> Hi, I’m <strong>Emanuel Kidoguchi</strong>, a back-end developer (Brazil → Japan, Suzuka, Mie).</p>
 
 <hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
 
 > レガシーシステムとモダンなシステム、両方の開発経験を持つシステムプログラマーです。信頼性とモダンなバックエンド技術を組み合わせ、安定したプロダクトを作ることを目標としています。
->
 > **EN:** Systems programmer with experience across **legacy and modern stacks** — combining operational reliability with contemporary back-end practice to ship stable products.
 > 🌱 **Learning:** **PHP** & **jQuery**: Web layer alongside legacy and modern stacks.
 
