@@ -13,9 +13,9 @@
 
 </div>
 
-<h1 align="center">Hi 👋, I'm Emanuel</h1>
-<h3 align="center">Back-end engineer · Brazil → Japan · Suzuka, Mie</h3>
-<h4 align="center">Let's start with a little <b><i>Smalltalk</i></b> — okay?</h4>
+<h1 align="center">初めまして！👋 キドグチエマニュエウと申します。</h1>
+<h3 align="center">バックエンドエンジニア | ブラジル → 日本（三重県鈴鹿市）</h3>
+<h4 align="center">まずは <b><i>Smalltalk</i></b>　でもしながら、お互いのことを知りましょう！よろしくお願いします。</h4>
 
 ```smalltalk
 MessagePublisher new publish
