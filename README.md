@@ -15,7 +15,9 @@
 
 </div>
 
-<h1 align="center">初めまして！👋 キドグチエマニュエウと申します。</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=30&duration=5000&pause=1800&color=7AA2F7&center=true&vCenter=true&width=960&height=72&repeat=true&lines=%E5%88%9D%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%EF%BC%81%F0%9F%91%8B%20%E3%82%AD%E3%83%89%E3%82%B0%E3%83%81%E3%82%A8%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A8%E3%82%A6%E3%81%A8%E7%94%B3%E3%81%97%E3%81%BE%E3%81%99%E3%80%82" alt="初めまして！👋 キドグチエマニュエウと申します。"/>
+</h1>
 <p align="center"><strong>English:</strong> Hi, I’m <strong>Emanuel Kidoguchi</strong>, a back-end developer (Brazil → Japan, Suzuka, Mie).</p>
 
 <hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
