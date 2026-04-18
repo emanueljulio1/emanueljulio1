@@ -85,19 +85,18 @@ Da **operação e evolução de sistemas centrais** para **back-end moderno** �
 
 ## GitHub analytics
 
-<!-- Troque SEU_USUARIO_GITHUB em todos os links abaixo -->
 <table>
   <tr>
     <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanueljulio1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
     </td>
     <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueljulio1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
+      <img src="https://streak-stats.demolab.com?user=emanueljulio1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
     </td>
   </tr>
 </table>
