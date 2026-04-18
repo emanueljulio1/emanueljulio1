@@ -85,35 +85,6 @@ MessagePublisher new publish
 
 ## Tech stack · at a glance
 
-<!-- One row per band so icons stay horizontal on all GitHub themes/viewports. -->
-<table>
-  <tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5"/></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3"/></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="36" height="36" alt="jQuery"/></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="36" height="36" alt="Elixir"/></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" width="40" height="40" alt="Phoenix"/></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" height="36" alt="PHP"/></td>
-  </tr>
-  <tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL"/></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub"/></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code"/></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux"/></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width="36" height="36" alt="Unix"/></td>
-  </tr>
-  <tr>
-  <td colspan="7" align="center">
-  <img src="https://img.shields.io/badge/COBOL-005571?style=for-the-badge&logo=circleci&logoColor=white" alt="COBOL"/>
-  <img src="https://img.shields.io/badge/JCL-2B2D42?style=for-the-badge" alt="JCL"/>
-  <img src="https://img.shields.io/badge/DB2-003545?style=for-the-badge&logo=ibm&logoColor=white" alt="DB2"/>
-  </td>
-  </tr>
-</table>
-
 <details>
 <summary><strong>Deep tech stack</strong> (expand)</summary>
 
@@ -125,19 +96,6 @@ MessagePublisher new publish
 | **Legacy / MF** | COBOL, JCL, TSO, ROSCOE, NATURAL, ADABAS |
 | **Tooling** | Git, GitHub, VS Code, Linux |
 
-</details>
-
-<details>
-<summary><strong>Detailed career achievements</strong> (expand)</summary>
-
-- Banking-grade delivery under regulatory and operational constraints (consulting context).
-- Product-oriented back-end work on a consumer app (Elixir / Phoenix / GraphQL).
-- Hands-on legacy stack depth with a **modernization** lens (not “maintenance only”).
-- Active investment in **Japanese proficiency** and local market context.
-
-</details>
-
-<hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
 
 ## Let’s connect
 
