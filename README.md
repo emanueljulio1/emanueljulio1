@@ -28,7 +28,7 @@ MessagePublisher new publish
 
 ---
 
-> **Profile in one line:** Software engineer with deep roots in **mission‑critical mainframe / legacy** environments and a clear trajectory into **modern back‑end ecosystems** — connecting operational reliability, data, and product delivery.
+> レガシーシステムとモダンなシステム、両方の開発経験を持つシステムプログラマーです。信頼性とモダンなバックエンド技術を組み合わせ、安定したプロダクトを作ることを目標としています。
 
 ---
 
