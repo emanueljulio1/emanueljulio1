@@ -56,8 +56,6 @@
 
 <sub>More detail: <a href="https://www.linkedin.com/in/ekidoguchi/">LinkedIn</a>.</sub>
 
-<hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
-
 
 ## Let’s connect
 
