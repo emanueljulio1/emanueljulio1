@@ -65,7 +65,6 @@ Commitment to **Japanese language proficiency** supports clearer collaboration a
   <img src="https://img.shields.io/badge/JLPT%20N3%20readiness-~65%25-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="JLPT N3 readiness ~65%" />
 </p>
 
-<sub align="center">To change the percentage, edit the middle segment of the badge URL (e.g. replace <code>~65%25</code> with <code>~70%25</code>).</sub>
 
 ---
 
@@ -127,8 +126,6 @@ Project: [**Gen app**](https://seja.gen.com.br/app)
   </td>
   </tr>
 </table>
-
-<sub>For a fuller narrative — education, certifications, and more — see <a href="https://www.linkedin.com/in/ekidoguchi/">LinkedIn</a>.</sub>
 
 ---
 
@@ -203,11 +200,7 @@ Project: [**Gen app**](https://seja.gen.com.br/app)
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
   </td>
-  <td align="center">
-      <a href="https://YOUR_PORTFOLIO_URL" title="Portfolio">
-        <img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=1a1b26" alt="Portfolio"/>
-      </a>
-  </td>
+    
   <td align="center">
       <a href="mailto:emanueljulio1@gmail.com" title="Email">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
