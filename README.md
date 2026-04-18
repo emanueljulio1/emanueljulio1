@@ -29,8 +29,6 @@ MessagePublisher new publish
       'city: Suzuka, Mie, Japan'.
 ```
 
-<p align="center"><sub><strong>profile.desktop</strong> · Tokyo Night · one-liner below</sub></p>
-
 > レガシーシステムとモダンなシステム、両方の開発経験を持つシステムプログラマーです。信頼性とモダンなバックエンド技術を組み合わせ、安定したプロダクトを作ることを目標としています。
 >
 > **EN:** Systems programmer with experience across **legacy and modern stacks** — combining operational reliability with contemporary back-end practice to ship stable products.
@@ -127,7 +125,7 @@ MessagePublisher new publish
   </tr>
 </table>
 
-<sub>More detail: <a href="https://www.linkedin.com/in/ekidoguchi/">LinkedIn</a>. Edit <code>period-*</code> shields to real dates if you want.</sub>
+<sub>More detail: <a href="https://www.linkedin.com/in/ekidoguchi/">LinkedIn</a>.</sub>
 
 <hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
 
