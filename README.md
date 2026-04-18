@@ -29,10 +29,7 @@
 
 > レガシーシステムとモダンなシステム、両方の開発経験を持つシステムプログラマーです。信頼性とモダンなバックエンド技術を組み合わせ、安定したプロダクトを作ることを目標としています。
 > **EN:** Systems programmer with experience across **legacy and modern stacks** — combining operational reliability with contemporary back-end practice to ship stable products.
-> 🌱 **Learning:** **PHP** & **jQuery**: Web layer alongside legacy and modern stacks.
-
-
-
+> 🌱 **Learning:** **PHP** & **jQuery**: Web layer alongside legacy and modern stacks.c
 
 
 <hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
@@ -45,7 +42,6 @@
   <td width="90" valign="top"><a href="https://www.ibm.com/"><img width="72" height="72" alt="IBM logo" src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"/></a></td>
   <td valign="top">
   <p><strong>COBOL Developer</strong> · <strong>IBM</strong> · Full-time</p>
-  <p><img src="https://img.shields.io/badge/period-archive-1a1b26?style=flat-square&labelColor=3b4261" alt="Role period placeholder"/></p>
   <p><strong>Stack:</strong> <code>COBOL</code> <code>JCL</code> <code>DB2</code> <code>ROSCOE</code> <code>TSO</code> <code>NATURAL</code> <code>ADABAS</code></p>
   <p><strong>Project:</strong> <a href="https://www.bb.com.br"><img src="https://img.shields.io/badge/Banco%20do%20Brasil-consulting-7aa2f7?style=flat-square&labelColor=1a1b26" alt="Banco do Brasil consulting"/></a></p>
   </td>
