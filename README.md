@@ -1,37 +1,118 @@
-<h1 align="center">Hi 👋, I'm Emanuel</h1>
-<h3 align="center">A Back-end developer from Brazil</h3>
-<h4 align="center">Let's just start with some <b><em>Smalltalk</em></b>, okay?</h4>
- 
-  
-  ``` 
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=900&lines=Emanuel+Kidoguchi;Back-end+%7C+Mainframe+%E2%86%92+Modern+Stack;Fintech+%E2%80%A2+E%E2%80%91commerce+%E2%80%A2+Sistemas+Legados)
+
+[![Location](https://img.shields.io/badge/Suzuka%2C%20Mie-Japan-24283b?style=for-the-badge&logo=googlemaps&logoColor=7aa2f7)](https://www.google.com/maps/place/Suzuka,+Mie/)
+[![Focus](https://img.shields.io/badge/Focus-Back--end%20%26%20Legacy%20Modernization-24283b?style=for-the-badge&logo=target&logoColor=bb9af7)](https://github.com/SEU_USUARIO_GITHUB)
+[![Open to](https://img.shields.io/badge/Open%20to-Oportunidades%20no%20Jap%C3%A3o%20%2F%20Remoto-24283b?style=for-the-badge&logo=Handshake&logoColor=c0caf5)](mailto:SEU_EMAIL@dominio.com)
+
+<!-- BANNER (opcional, recomendado): descomente e aponte para o arquivo no repo do perfil -->
+<!-- ![Banner](https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/main/assets/banner.png) -->
+
+</div>
+
+---
+
+> **Perfil em uma frase:** engenheiro de software com base sólida em **ambientes críticos (mainframe / legado)** e evolução consistente para **ecossistemas modernos** — conectando confiabilidade operacional, dados e produto digital.
+
+<table>
+  <tr>
+    <td valign="top" width="52%">
+
+### Experiência híbrida (diferencial)
+
+- **Fintech / banking-grade delivery:** contexto regulatório, estabilidade, governança de mudança e operação com alto rigor.
+- **E‑commerce / produto digital:** ritmo de entrega, integrações e foco em fluxos que convertem e escalam.
+- **Sistemas legados & mainframe:** leitura profunda de regras de negócio “no metal”, integração, **COBOL/JCL/DB2** e ecossistema associado — com visão de **modernização** (não só manutenção).
+
+    </td>
+    <td valign="top" width="48%">
+
+### Transição de carreira (narrativa clara)
+
+Da **operação e evolução de sistemas centrais** para **back-end moderno** — aplicando disciplina de engenharia adquirida em ambientes complexos, com stack atual e boas práticas de API, dados e qualidade.
+
+**Atualmente reforçando:** PHP & jQuery *(como camada complementar ao ecossistema web legado/moderno)*.
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech stack
+
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Frontend</b></td>
+    <td align="center" width="25%"><b>Backend</b></td>
+    <td align="center" width="25%"><b>Ferramentas</b></td>
+    <td align="center" width="25%"><b>Legacy / Mainframe</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40" alt="HTML5"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40" alt="CSS3"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" alt="JavaScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" title="jQuery" width="40" height="40" alt="jQuery"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" title="Elixir" width="40" height="40" alt="Elixir"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" title="Phoenix" width="44" height="44" alt="Phoenix"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40" alt="PHP"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40" alt="PostgreSQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" width="40" height="40" alt="GraphQL"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40" alt="Git"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40" alt="GitHub"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40" alt="VS Code"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40" alt="Linux"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" title="Unix / Mainframe ecosystem" width="40" height="40" alt="Unix"/>
+      <!-- COBOL não tem ícone universal no Devicon; badge complementa a identidade visual -->
+      <br/><br/>
+      <img src="https://img.shields.io/badge/COBOL-005571?style=for-the-badge&logo=circleci&logoColor=white" alt="COBOL"/>
+      <img src="https://img.shields.io/badge/JCL-2B2D42?style=for-the-badge" alt="JCL"/>
+      <img src="https://img.shields.io/badge/DB2-003545?style=for-the-badge&logo=ibm&logoColor=white" alt="DB2"/>
+    </td>
+  </tr>
+</table>
+
+<sub><b>Nota:</b> ferramentas como <b>TSO / ROSCOE</b> e stacks como <b>NATURAL/ADABAS</b> ficam bem como linha de texto curta na seção <i>Experience</i> (abaixo), para não poluir a grade.</sub>
+
+---
+
+## GitHub analytics
+
+<!-- Troque SEU_USUARIO_GITHUB em todos os links abaixo -->
+<table>
+  <tr>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+    </td>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
+    </td>
+  </tr>
+</table>
+
+<sub><b>Tema sugerido:</b> <code>tokyonight</code> (combina com o posicionamento Japão + visual moderno). Alternativa: <code>dracula</code> (troque o parâmetro <code>theme=</code> nos três serviços).</sub>
+
+---
+
+## Smalltalk (assinatura)
+
+```smalltalk
 MessagePublisher new publish
-
-    publish
-    
-      Transcript show: 
-                       'Hello, world!'.
-                       'name: Emanuel Kidoguchi'.
-                       'city: Suzuka, Mie, Japan'.
-
-  ```
-
-- 🌱 I’m currently learning **PHP & jQuery**
-
-### Experience
-[<img align="left" height="94px" width="94px" alt="IBM" src="https://www.ibm.com/brand/experience-guides/developer/8f4e3cc2b5d52354a6d43c8edba1e3c9/02_8-bar-reverse.svg"/>](https://www.ibm.com/)
-
-**COBOL Developer** \
-[**IBM**](https://www.ibm.com/) • Full-time \
-Languages & Tecnologies: `COBOL`, `JCL`, `DB2`, `ROSCOE`, `TSO`, `NATURAL ADABAS`,\
-Project: [Consulting: Banco do Brasil](https://www.bb.com.br)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Gen" src="[https://media.licdn.com/dms/image/D4D0BAQHGfV9P1ynKUw/company-logo_200_200/0/1689963699337/seja_gen_logo?e=1708560000&v=beta&t=9Q--Yh50vgOleRSwjFvIcfXVOC-dQvt824bDQZGSsxA](https://ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000152847/9d0952a0-6bf7-4f2f-9758-1e6fcb1cbd0a.png)](https://ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000152847/9d0952a0-6bf7-4f2f-9758-1e6fcb1cbd0a.png)"/>](https://seja.gen.com.br/app)
-
-**Elixir Back-end Developer (Jr)** \
-[**GEN**](https://seja.gen.com.br/app) • Contract \
-Languages & Tecnologies: `Elixir`, `Phoenix`, `PostgreSQL`, `GraphQL`\
-Project: [Gen app](https://seja.gen.com.br/app)
-<br/>
-
-Contact through [LinkedIn](https://www.linkedin.com/in/ekidoguchi/) for a more detailed description of my work experience, education and certification.
+  publish
+    Transcript show:
+      'Hello, world.'.
+      'name: Emanuel Kidoguchi'.
+      'city: Suzuka, Mie, Japan'.
