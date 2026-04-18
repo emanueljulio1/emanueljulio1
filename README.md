@@ -62,7 +62,7 @@ Commitment to **Japanese language proficiency** supports clearer collaboration a
 
 <!-- Progress indicator (shields.io — reliable on GitHub). Edit <code>65%25</code> in the URL to your estimate. -->
 <p align="center">
-  <img src="https://img.shields.io/badge/JLPT%20N3%20readiness-~65%25-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="JLPT N3 readiness ~65%" />
+  <img src="https://img.shields.io/badge/JLPT%20N3%20readiness-~65%25-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="JLPT N3 readiness ~25%" />
 </p>
 
 
