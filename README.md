@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=220&section=header&text=Emanuel%20Kidoguchi&fontSize=44&fontColor=1a1b26&fontAlignY=38&desc=Back-end%20%E2%80%A2%20Mainframe%20%E2%86%92%20Modern&descAlignY=58&descSize=15&descAlign=50&descColor=1a1b26" alt="Capsule Render waving header with name Emanuel Kidoguchi"/>
 </p>
@@ -65,4 +64,3 @@
   <a href="mailto:emanueljulio1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/emanueljulio1"><img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" alt="GitHub"/></a>
 </p>
- 
