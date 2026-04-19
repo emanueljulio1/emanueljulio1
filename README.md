@@ -45,3 +45,18 @@
   <td valign="top">
   <p><strong>Elixir Back-end Developer </strong> · <strong>GEN</strong> · Contract</p>
   <p><strong>Stack:</strong> <code>Elixir</code> <code>Phoenix</code> <code>PostgreSQL</code> <code>GraphQL</code></p>
+  <p><strong>Project:</strong> <a href="https://seja.gen.com.br/app"><img src="https://img.shields.io/badge/Gen-app-bb9af7?style=flat-square&labelColor=1a1b26" alt="Gen app"/></a></p>
+  </td>
+  </tr>
+</table>
+
+<sub>More detail: <a href="https://www.linkedin.com/in/ekidoguchi/">LinkedIn</a>.</sub>
+
+
+## Let’s connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ekidoguchi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:emanueljulio1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/emanueljulio1"><img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" alt="GitHub"/></a>
+</p>
