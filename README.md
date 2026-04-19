@@ -2,16 +2,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=220&section=header&text=Emanuel%20Kidoguchi&fontSize=44&fontColor=1a1b26&fontAlignY=38&desc=Back-end%20%E2%80%A2%20Mainframe%20%E2%86%92%20Modern&descAlignY=58&descSize=15&descAlign=50&descColor=1a1b26" alt="Capsule Render waving header with name Emanuel Kidoguchi"/>
 </p>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=900&lines=Fintech+%E2%80%A2+E%E2%80%91commerce+%E2%80%A2+Legacy+Modernization;Suzuka%2C+Mie+%E2%80%A2+Open+to+Japan+%2F+Remote" alt="Animated typing lines summarizing domains and location"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=900&lines=Fintech%20%E2%80%A2%20E%E2%80%91commerce%20%E2%80%A2%20Legacy%20Modernization%3BSuzuka%2C%20Mie%20%E2%80%A2%20Open%20to%20Japan%20%2F%20Remote" alt="Animated typing lines summarizing domains and location"/>
 
 <br/>
 
 [![Location](https://img.shields.io/badge/Suzuka%2C%20Mie-Japan-1a1b26?style=for-the-badge&logo=googlemaps&logoColor=7aa2f7)](https://www.google.com/maps/place/Suzuka,+Mie/)
-[![Focus](https://img.shields.io/badge/Focus-Back--end+%26+Legacy-1a1b26?style=for-the-badge&logo=target&logoColor=bb9af7)](https://github.com/emanueljulio1)
-[![Open](https://img.shields.io/badge/Open%20to-Roles+%28Japan+%2F+Remote%29-1a1b26?style=for-the-badge&logo=Handshake&logoColor=c0caf5)](mailto:emanueljulio1@gmail.com)
+[![Focus](https://img.shields.io/badge/Focus-Back--end%20%26%20Legacy-1a1b26?style=for-the-badge&logo=target&logoColor=bb9af7)](https://github.com/emanueljulio1)
+[![Open](https://img.shields.io/badge/Open%20to-Roles%20%28Japan%20%2F%20Remote%29-1a1b26?style=for-the-badge&logo=Handshake&logoColor=c0caf5)](mailto:emanueljulio1@gmail.com)
 
 </div>
 
