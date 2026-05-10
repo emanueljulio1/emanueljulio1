@@ -22,7 +22,7 @@
 <hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
 
 > レガシーシステムとモダンなシステム、両方の開発経験を持つシステムプログラマーです。信頼性とモダンなバックエンド技術を組み合わせ、安定したプロダクトを作ることを目標としています。
-> **EN:** Systems programmer with experience across **legacy and modern stacks** — combining operational reliability with contemporary back-end practice to ship stable products.
+> **EN:** Systems programmer with experience across **legacy and modern stacks** combining operational reliability with contemporary back-end practice to ship stable products.
 
 > 🌱 **Learning:** **PHP** & **Gleam✨**: Web layer alongside legacy and modern stacks.
 
