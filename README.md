@@ -24,6 +24,8 @@
 > I am a systems programmer with experience in both **legacy and modern systems**. My goal is to combine reliability with modern backend technologies to build stable products.
 I have a strong interest in contract-oriented system architecture and Spec-Driven Development (SDD), using specifications such as OpenAPI/Swagger to define rules, workflows, and integrations before implementation. I aim to build predictable, scalable, and maintainable systems where the specification serves as the single source of truth throughout the entire development lifecycle.
 
+> I am studying the ops domain of this POC mixed orders (in-stock + pre-order), inventory allocation and movement ledger, purchase orders and goods receipt, shipping consolidation rules, support tickets, and audited business rules in **collectibles-admin-poc**.
+
 > 🌱 **Learning TALL Stack: TailwindCSS, Alpine.js, Laravel, Livewire**
 
 
