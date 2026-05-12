@@ -21,10 +21,10 @@
 </h1>
 <hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
 
-> **EN:** I am a systems programmer with experience in both **legacy and modern systems**. My goal is to combine reliability with modern backend technologies to build stable products.
+> I am a systems programmer with experience in both **legacy and modern systems**. My goal is to combine reliability with modern backend technologies to build stable products.
 I have a strong interest in contract-oriented system architecture and Spec-Driven Development (SDD), using specifications such as OpenAPI/Swagger to define rules, workflows, and integrations before implementation. I aim to build predictable, scalable, and maintainable systems where the specification serves as the single source of truth throughout the entire development lifecycle.
 
-> 🌱 **Learning:** **PHP** & **Gleam✨**: Web layer alongside legacy and modern stacks.
+> 🌱 **Learning TALL Stack: TailwindCSS, Alpine.js, Laravel, Livewire**
 
 
 <hr style="border:0;border-top:1px solid #3b4261;margin:1.5em 0"/>
